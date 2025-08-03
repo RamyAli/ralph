@@ -11,10 +11,23 @@ html, body{
 
 }
 
-head h1{
+header .pfp{
+    width: 500px;
+    height: 300px;
+    border: 12px solid rgb(239, 239, 239);
+    /* border-radius: 50%; */
+    background-image: url("./../img/first-host.webp");
+    background-repeat: no-repeat;
+    background-position:  10%;
+    background-size: cover;
+    margin: 0 auto;
+
+}
+header h1{
      font-family: "Jersey 20", sans-serif;
     font-weight: 400;
     font-style: normal;
+    margin: 10px 0px 20px 0px;
 }
 
 header{
@@ -24,8 +37,10 @@ header{
     color: aliceblue;
 }
 
-head img{
+header img{
     border: 12px solid;
     border-color:  wheat;
+    
+    
 }
 
