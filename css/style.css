@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
+
+body{
+    background-color: rgb(206, 206, 206);
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+
+}
+
+head h1{
+     font-family: "Jersey 20", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    color: aliceblue;
+}
+
+head img{
+    border: 12px solid;
+    border-color:  wheat;
+}
+
