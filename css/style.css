@@ -92,3 +92,26 @@ main h2{
     margin: 10px 0px 20px 0px;
 
 }
+
+footer{
+  
+    background-color: rgb(97, 42, 165);
+      padding: 40px;
+      color: white;
+      text-align: center;
+      margin-top: 60px;
+
+}
+
+footer .content{
+    width: 800px;
+       margin: 0 auto;
+    
+     
+}
+footer a, footer a:visited{
+    color: rgb(75, 247, 22);
+}
+footer a:hover{
+    color: yellow;
+}
